@@ -18,6 +18,11 @@ header, section, footer, article, details {
     vertical-align: baseline;
 }
 /* remember to define focus styles! */
+.hide {
+  display: none;
+}
+
+
 :focus {
     outline: 0;
 }
